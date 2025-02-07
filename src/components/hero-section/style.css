@@ -1,0 +1,21 @@
+.hero-section {
+    background: linear-gradient(to right, #f8f9fa, #e9ecef);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url(/media/auth/bg2.jpg);
+  }
+  
+  .hero-section h1 {
+    font-size: 2.5rem;
+  }
+  
+  .hero-section h2 {
+    font-size: 1.5rem;
+    color: #007bff; /* Adjust the primary color */
+  }
+  
+  .hero-section img {
+    border: 5px solid #fff;
+  }
+  

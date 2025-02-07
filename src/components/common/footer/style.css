@@ -1,0 +1,24 @@
+.footer {
+    background: #343a40; /* Dark background */
+    color: #adb5bd; /* Muted text color */
+  }
+  
+  .footer a {
+    color: #adb5bd;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .footer a:hover {
+    color: #ffc107;
+  }
+  
+  .footer .bi {
+    transition: transform 0.3s, color 0.3s;
+  }
+  
+  .footer .bi:hover {
+    color: #ffc107;
+    transform: scale(1.2); /* Scale up on hover */
+  }
+  

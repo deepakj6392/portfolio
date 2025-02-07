@@ -1,0 +1,13 @@
+.about-section {
+    background: #f8f9fa; /* Light background color */
+  }
+  
+  .about-section h2 {
+    font-size: 2rem;
+    color: #333; /* Darker text color */
+  }
+  
+  .about-section img {
+    border: 5px solid #fff;
+  }
+  

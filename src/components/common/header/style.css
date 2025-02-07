@@ -1,0 +1,15 @@
+.nav-link {
+    font-size: 1rem;
+    margin-right: 1rem;
+    transition: color 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #f8d90f; /* Custom hover color */
+  }
+  
+  .nav-link.active {
+    color: #f8d90f; /* Active link color */
+    font-weight: bold;
+  }
+  

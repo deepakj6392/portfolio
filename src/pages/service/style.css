@@ -1,0 +1,14 @@
+.hero {
+    background: linear-gradient(to right, #007bff, #6610f2);
+    color: white;
+  }
+  
+  .testimonials {
+    background: #f8f9fa;
+  }
+  
+  .contact-cta {
+    background: #343a40;
+    color: white;
+  }
+  
